@@ -1,4 +1,4 @@
-# Energinet Current Electicity Generatio
+# Energinet Current Electicity Generation
 ## Get Current Electricity Production and Consumption from Energinet
 
 Scrapes electricity generation and usage data data from [Energinet](https://energinet.dk)
